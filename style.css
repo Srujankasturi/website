@@ -354,6 +354,7 @@ section {
 
 #experience {
   position: relative;
+  
 }
 
 #experience p.section__text__p1 {
@@ -396,7 +397,7 @@ article .icon {
 /* EXTRACURRICULARS */
 
 #projects {
-  padding: 2rem;
+  padding: 6rem;
   background-color: #FFFFFF; /* Adjust background color */
   text-align: center;
   color: #1f1f3f; /* Text color */
@@ -524,7 +525,7 @@ footer .nav-links a:hover {
 }
 
 #projects {
-  scroll-margin-top: 60px;
+  scroll-margin-top: 0px;
 }
 
 
